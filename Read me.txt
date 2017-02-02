@@ -1,0 +1,28 @@
+create a new folder named "cell" in c:\ drive
+create a new file named      "drop.txt" in the "cell" folder using notepad
+
+Supporting Operating System
+Windows Xp
+
+Supporting Software
+dotnetfx35.exe
+
+Supporting Browser
+Any browser is applicable to run the application.
+
+ To run the application:
+Step 1: open all the three executable files
+               i source
+               ii router
+              iii WindowsFormsApplication1
+
+Step 2: Go the router file and accept it, by only clicking the "ok" button and 
+            then return to the source file.
+
+Step 3: Enter the ip address and the message, then click "transfer" button.
+
+Step 4: If the file is transferred,go the router page,enter the ip address then click send.
+
+Step 5: If the file has been transferred, go to the WindowsFormsApplication1 file and
+            double click on the message diagram.
+
